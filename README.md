@@ -1,0 +1,1 @@
+The Weekly Retail Food Sales series is based on proprietary scanner data from a nationally representative sample of retail food establishments collected by Circana (formerly Information Resources Inc. [IRI]). Sales data are reported weekly, beginning with the week ending October 6, 2019.
